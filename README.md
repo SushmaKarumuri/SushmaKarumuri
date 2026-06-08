@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=[Computer Science graduate];" alt="Typing SVG" />
+  
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -13,7 +13,7 @@
 </p>
 
 ## 🚀 About Me 
-I am passionate about learning new concepts, solving problems, and applying my knowledge to build practical and impactful solutions.
+Computer Science graduate with a strong interest in software development and technology. I am passionate about learning new concepts, solving problems, and applying my knowledge to build practical and impactful solutions.
 
 My technical interests include Python programming, Cloud Computing, Cybersecurity, and Software Engineering. Through academic projects and hands-on experience, I have developed skills in programming, project development, teamwork, and continuous learning.
 
